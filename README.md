@@ -29,6 +29,12 @@ This project has practical applications in various domains, including data loggi
 
 Working on this project as an internship task has provided valuable experience in Java programming, particularly in file handling techniques. It has strengthened the understanding of working with external resources such as files, handling user input efficiently, and implementing structured programming practices.
 
-OUTPUT :
+Here are some output samples given below :- 
 
-File before modification, as user will enter data for the first time-
+![Image](https://github.com/user-attachments/assets/c543f731-b986-4866-9d08-1241881019cc)
+
+![Image](https://github.com/user-attachments/assets/19e56c65-3634-463c-890f-5622821cc22f)
+
+![Image](https://github.com/user-attachments/assets/61bdd6cf-bb17-477f-8159-09e11202929b)
+
+![Image](https://github.com/user-attachments/assets/68c02ae9-90b0-4785-b547-11a7d41187fb)
